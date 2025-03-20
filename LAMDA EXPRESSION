@@ -1,0 +1,21 @@
+1.
+WAP to find factorial of a number and print.
+
+2. 
+WAP to find max of 2 given number and print the max number and lesser number average in console.
+
+3. 
+WAP to accept an array of integers then convert the
+array elements to double array and find the sum of them and print
+
+4. 
+Create a Employee class with empid ename and salary.
+use Lombok
+Now create an array of 5 employees and print their
+salary in descending order.
+
+5.
+Create a lambda to find the first employee from the last array.
+Create another lambda to find the last employee from the last array.
+
+then use f1.andThen(f2) to obtain the 3rd lambda(Function) and print the sum of 2 salaries.
